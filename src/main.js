@@ -10,6 +10,7 @@ import VueLazyload from 'vue-lazyload'
 Vue.config.productionTip = false
 // 将全局样式文件写在 main.js
 import '@/assets/scss/reset.scss'
+import '@/assets/scss/mixin.scss'
 /*这个是注册到根示例的方法*/
 import store from './store'
 
