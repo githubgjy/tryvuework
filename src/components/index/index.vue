@@ -1,4 +1,3 @@
-<script src="../../../../vuebig/vue2-elm-master/src/main.js"></script>
 <template>
    <div class="goods">这个是主页</div>
 </template>
