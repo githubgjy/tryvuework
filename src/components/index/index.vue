@@ -1,5 +1,5 @@
 <template>
-   <div class="goods">这个是主页</div>
+   <div class="goods">这个是主页,我要再测试一遍</div>
 </template>
 
 <script>
