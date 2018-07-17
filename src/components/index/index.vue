@@ -9,8 +9,7 @@
 </script>
 
 <style lang="scss" scoped>
-  @import '~@/assets/scss/const.scss';
-  @import '~@/assets/scss/mixin.scss';
+ 
 .goods{
   @include shadow;
 }
